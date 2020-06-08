@@ -87,7 +87,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : null,
-      "dob" : "1971-01-18",
+      "dob" : null,
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -107,7 +107,7 @@
       "id" : 81,
       "name" : "Mauricio Roberto Pochettino Trossero",
       "nickname" : null,
-      "dob" : "1972-03-02",
+      "dob" : null,
       "country" : {
         "id" : 11,
         "name" : "Argentina"
@@ -288,7 +288,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : null,
-      "dob" : "1971-01-18",
+      "dob" : null,
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -308,7 +308,7 @@
       "id" : 21,
       "name" : "Unai Emery Etxegoien",
       "nickname" : "Unai Emery",
-      "dob" : "1971-11-03",
+      "dob" : null,
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -392,8 +392,8 @@
     "id" : 4457,
     "name" : "Estadio de la Romareda",
     "country" : {
-      "id" : 255,
-      "name" : "International"
+      "id" : 214,
+      "name" : "Spain"
     }
   },
   "referee" : {
@@ -446,7 +446,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : null,
-      "dob" : "1971-01-18",
+      "dob" : null,
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -505,7 +505,7 @@
       "id" : 236,
       "name" : "Enrique Sánchez Flores",
       "nickname" : "Quique Sánchez Flores",
-      "dob" : "1965-02-05",
+      "dob" : null,
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -525,7 +525,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : null,
-      "dob" : "1971-01-18",
+      "dob" : null,
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -588,7 +588,7 @@
       "id" : 505,
       "name" : "José Miguel González Martín del Campo",
       "nickname" : "Míchel",
-      "dob" : "1963-03-23",
+      "dob" : null,
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -608,7 +608,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : null,
-      "dob" : "1971-01-18",
+      "dob" : null,
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -667,7 +667,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : null,
-      "dob" : "1971-01-18",
+      "dob" : null,
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -687,7 +687,7 @@
       "id" : 221,
       "name" : "José Luis Mendilibar Etxebarria",
       "nickname" : null,
-      "dob" : "1961-03-14",
+      "dob" : null,
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -746,7 +746,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : null,
-      "dob" : "1971-01-18",
+      "dob" : null,
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -766,7 +766,7 @@
       "id" : 733,
       "name" : "Manuel Luis Pellegrini Ripamonti",
       "nickname" : null,
-      "dob" : "1953-09-16",
+      "dob" : null,
       "country" : {
         "id" : 45,
         "name" : "Chile"
@@ -829,7 +829,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : null,
-      "dob" : "1971-01-18",
+      "dob" : null,
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -849,7 +849,7 @@
       "id" : 236,
       "name" : "Enrique Sánchez Flores",
       "nickname" : "Quique Sánchez Flores",
-      "dob" : "1965-02-05",
+      "dob" : null,
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -933,8 +933,8 @@
     "id" : 4658,
     "name" : "Estadio Abanca-Riazor",
     "country" : {
-      "id" : 255,
-      "name" : "International"
+      "id" : 214,
+      "name" : "Spain"
     }
   },
   "referee" : {
@@ -967,7 +967,7 @@
       "id" : 81,
       "name" : "Mauricio Roberto Pochettino Trossero",
       "nickname" : null,
-      "dob" : "1972-03-02",
+      "dob" : null,
       "country" : {
         "id" : 11,
         "name" : "Argentina"
@@ -987,7 +987,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : null,
-      "dob" : "1971-01-18",
+      "dob" : null,
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -1075,8 +1075,8 @@
     "id" : 4454,
     "name" : "Iberostar Estadi",
     "country" : {
-      "id" : 255,
-      "name" : "International"
+      "id" : 214,
+      "name" : "Spain"
     }
   },
   "referee" : {
@@ -1113,7 +1113,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : null,
-      "dob" : "1971-01-18",
+      "dob" : null,
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -1192,7 +1192,7 @@
       "id" : 21,
       "name" : "Unai Emery Etxegoien",
       "nickname" : "Unai Emery",
-      "dob" : "1971-11-03",
+      "dob" : null,
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -1212,7 +1212,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : null,
-      "dob" : "1971-01-18",
+      "dob" : null,
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -1696,7 +1696,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : null,
-      "dob" : "1971-01-18",
+      "dob" : null,
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -1716,7 +1716,7 @@
       "id" : 383,
       "name" : "José Mario Felix dos Santos Mourinho",
       "nickname" : "José Mourinho",
-      "dob" : "1963-01-26",
+      "dob" : null,
       "country" : {
         "id" : 183,
         "name" : "Portugal"
@@ -1859,8 +1859,8 @@
     "id" : 4466,
     "name" : "Estadio El Sadar",
     "country" : {
-      "id" : 255,
-      "name" : "International"
+      "id" : 214,
+      "name" : "Spain"
     }
   },
   "referee" : {
@@ -2015,7 +2015,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : null,
-      "dob" : "1971-01-18",
+      "dob" : null,
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -2035,7 +2035,7 @@
       "id" : 505,
       "name" : "José Miguel González Martín del Campo",
       "nickname" : "Míchel",
-      "dob" : "1963-03-23",
+      "dob" : null,
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -2119,8 +2119,8 @@
     "id" : 4657,
     "name" : "Estadio de los Juegos Mediterráneos",
     "country" : {
-      "id" : 255,
-      "name" : "International"
+      "id" : 214,
+      "name" : "Spain"
     }
   },
   "referee" : {
@@ -2212,7 +2212,7 @@
       "id" : 383,
       "name" : "José Mario Felix dos Santos Mourinho",
       "nickname" : "José Mourinho",
-      "dob" : "1963-01-26",
+      "dob" : null,
       "country" : {
         "id" : 183,
         "name" : "Portugal"
@@ -2232,7 +2232,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : null,
-      "dob" : "1971-01-18",
+      "dob" : null,
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -2242,7 +2242,7 @@
   "home_score" : 1,
   "away_score" : 1,
   "match_status" : "available",
-  "last_updated" : "2019-12-16T23:09:16.168756",
+  "last_updated" : "2020-04-09T13:13:49.345111",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",

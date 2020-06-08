@@ -1,87 +1,4 @@
 [ {
-  "match_id" : 22536,
-  "match_date" : "2019-04-18",
-  "kick_off" : "01:00:00.000",
-  "competition" : {
-    "competition_id" : 49,
-    "country_name" : "United States of America",
-    "competition_name" : "NWSL"
-  },
-  "season" : {
-    "season_id" : 3,
-    "season_name" : "2018"
-  },
-  "home_team" : {
-    "home_team_id" : 766,
-    "home_team_name" : "North Carolina Courage",
-    "home_team_gender" : "female",
-    "home_team_group" : null,
-    "country" : {
-      "id" : 241,
-      "name" : "United States of America"
-    },
-    "managers" : [ {
-      "id" : 127,
-      "name" : "Paul Riley",
-      "nickname" : null,
-      "dob" : "1963-09-23",
-      "country" : {
-        "id" : 68,
-        "name" : "England"
-      }
-    } ]
-  },
-  "away_team" : {
-    "away_team_id" : 764,
-    "away_team_name" : "Orlando Pride",
-    "away_team_gender" : "female",
-    "away_team_group" : null,
-    "country" : {
-      "id" : 241,
-      "name" : "United States of America"
-    },
-    "managers" : [ {
-      "id" : 128,
-      "name" : "Marc Skinner",
-      "nickname" : null,
-      "dob" : null,
-      "country" : {
-        "id" : 68,
-        "name" : "England"
-      }
-    } ]
-  },
-  "home_score" : 5,
-  "away_score" : 0,
-  "match_status" : "available",
-  "last_updated" : "2020-01-26T02:37:05.981617",
-  "metadata" : {
-    "data_version" : "1.1.0",
-    "shot_fidelity_version" : "2",
-    "xy_fidelity_version" : "2"
-  },
-  "match_week" : 23,
-  "competition_stage" : {
-    "id" : 1,
-    "name" : "Regular Season"
-  },
-  "stadium" : {
-    "id" : 4647,
-    "name" : "Sahlens Stadium at WakeMed Soccer Park",
-    "country" : {
-      "id" : 255,
-      "name" : "International"
-    }
-  },
-  "referee" : {
-    "id" : 134,
-    "name" : "D. Chesky",
-    "country" : {
-      "id" : 241,
-      "name" : "United States of America"
-    }
-  }
-}, {
   "match_id" : 7430,
   "match_date" : "2018-04-15",
   "kick_off" : "01:00:00.000",
@@ -127,7 +44,7 @@
       "id" : 127,
       "name" : "Paul Riley",
       "nickname" : null,
-      "dob" : "1963-09-23",
+      "dob" : null,
       "country" : {
         "id" : 68,
         "name" : "England"
@@ -200,7 +117,7 @@
       "id" : 141,
       "name" : "Vlatko Andonovski",
       "nickname" : null,
-      "dob" : "1976-09-14",
+      "dob" : null,
       "country" : {
         "id" : 241,
         "name" : "United States of America"
@@ -253,7 +170,7 @@
       "id" : 130,
       "name" : "Tom Sermanni",
       "nickname" : null,
-      "dob" : "1954-07-01",
+      "dob" : null,
       "country" : {
         "id" : 201,
         "name" : "Scotland"
@@ -350,7 +267,7 @@
       "id" : 134,
       "name" : "Laura Harvey",
       "nickname" : null,
-      "dob" : "1980-05-15",
+      "dob" : null,
       "country" : {
         "id" : 68,
         "name" : "England"
@@ -407,7 +324,7 @@
       "id" : 127,
       "name" : "Paul Riley",
       "nickname" : null,
-      "dob" : "1963-09-23",
+      "dob" : null,
       "country" : {
         "id" : 68,
         "name" : "England"
@@ -480,7 +397,7 @@
       "id" : 141,
       "name" : "Vlatko Andonovski",
       "nickname" : null,
-      "dob" : "1976-09-14",
+      "dob" : null,
       "country" : {
         "id" : 241,
         "name" : "United States of America"
@@ -553,7 +470,7 @@
       "id" : 141,
       "name" : "Vlatko Andonovski",
       "nickname" : null,
-      "dob" : "1976-09-14",
+      "dob" : null,
       "country" : {
         "id" : 241,
         "name" : "United States of America"
@@ -573,7 +490,7 @@
       "id" : 134,
       "name" : "Laura Harvey",
       "nickname" : null,
-      "dob" : "1980-05-15",
+      "dob" : null,
       "country" : {
         "id" : 68,
         "name" : "England"
@@ -650,7 +567,7 @@
       "id" : 127,
       "name" : "Paul Riley",
       "nickname" : null,
-      "dob" : "1963-09-23",
+      "dob" : null,
       "country" : {
         "id" : 68,
         "name" : "England"
@@ -703,7 +620,7 @@
       "id" : 130,
       "name" : "Tom Sermanni",
       "nickname" : null,
-      "dob" : "1954-07-01",
+      "dob" : null,
       "country" : {
         "id" : 201,
         "name" : "Scotland"
@@ -723,7 +640,7 @@
       "id" : 127,
       "name" : "Paul Riley",
       "nickname" : null,
-      "dob" : "1963-09-23",
+      "dob" : null,
       "country" : {
         "id" : 68,
         "name" : "England"
@@ -796,7 +713,7 @@
       "id" : 132,
       "name" : "Vera Pauw",
       "nickname" : null,
-      "dob" : "1963-01-18",
+      "dob" : null,
       "country" : {
         "id" : 160,
         "name" : "Netherlands"
@@ -849,7 +766,7 @@
       "id" : 134,
       "name" : "Laura Harvey",
       "nickname" : null,
-      "dob" : "1980-05-15",
+      "dob" : null,
       "country" : {
         "id" : 68,
         "name" : "England"
@@ -869,7 +786,7 @@
       "id" : 127,
       "name" : "Paul Riley",
       "nickname" : null,
-      "dob" : "1963-09-23",
+      "dob" : null,
       "country" : {
         "id" : 68,
         "name" : "England"
@@ -922,7 +839,7 @@
       "id" : 141,
       "name" : "Vlatko Andonovski",
       "nickname" : null,
-      "dob" : "1976-09-14",
+      "dob" : null,
       "country" : {
         "id" : 241,
         "name" : "United States of America"
@@ -942,7 +859,7 @@
       "id" : 130,
       "name" : "Tom Sermanni",
       "nickname" : null,
-      "dob" : "1954-07-01",
+      "dob" : null,
       "country" : {
         "id" : 201,
         "name" : "Scotland"
@@ -995,7 +912,7 @@
       "id" : 132,
       "name" : "Vera Pauw",
       "nickname" : null,
-      "dob" : "1963-01-18",
+      "dob" : null,
       "country" : {
         "id" : 160,
         "name" : "Netherlands"
@@ -1015,7 +932,7 @@
       "id" : 134,
       "name" : "Laura Harvey",
       "nickname" : null,
-      "dob" : "1980-05-15",
+      "dob" : null,
       "country" : {
         "id" : 68,
         "name" : "England"
@@ -1068,7 +985,7 @@
       "id" : 130,
       "name" : "Tom Sermanni",
       "nickname" : null,
-      "dob" : "1954-07-01",
+      "dob" : null,
       "country" : {
         "id" : 201,
         "name" : "Scotland"
@@ -1161,7 +1078,7 @@
       "id" : 134,
       "name" : "Laura Harvey",
       "nickname" : null,
-      "dob" : "1980-05-15",
+      "dob" : null,
       "country" : {
         "id" : 68,
         "name" : "England"
@@ -1214,7 +1131,7 @@
       "id" : 141,
       "name" : "Vlatko Andonovski",
       "nickname" : null,
-      "dob" : "1976-09-14",
+      "dob" : null,
       "country" : {
         "id" : 241,
         "name" : "United States of America"
@@ -1287,7 +1204,7 @@
       "id" : 127,
       "name" : "Paul Riley",
       "nickname" : null,
-      "dob" : "1963-09-23",
+      "dob" : null,
       "country" : {
         "id" : 68,
         "name" : "England"
@@ -1360,7 +1277,7 @@
       "id" : 127,
       "name" : "Paul Riley",
       "nickname" : null,
-      "dob" : "1963-09-23",
+      "dob" : null,
       "country" : {
         "id" : 68,
         "name" : "England"
@@ -1433,7 +1350,7 @@
       "id" : 127,
       "name" : "Paul Riley",
       "nickname" : null,
-      "dob" : "1963-09-23",
+      "dob" : null,
       "country" : {
         "id" : 68,
         "name" : "England"
@@ -1526,7 +1443,7 @@
       "id" : 127,
       "name" : "Paul Riley",
       "nickname" : null,
-      "dob" : "1963-09-23",
+      "dob" : null,
       "country" : {
         "id" : 68,
         "name" : "England"
@@ -1672,7 +1589,7 @@
       "id" : 141,
       "name" : "Vlatko Andonovski",
       "nickname" : null,
-      "dob" : "1976-09-14",
+      "dob" : null,
       "country" : {
         "id" : 241,
         "name" : "United States of America"
@@ -1725,7 +1642,7 @@
       "id" : 134,
       "name" : "Laura Harvey",
       "nickname" : null,
-      "dob" : "1980-05-15",
+      "dob" : null,
       "country" : {
         "id" : 68,
         "name" : "England"
@@ -1798,7 +1715,7 @@
       "id" : 132,
       "name" : "Vera Pauw",
       "nickname" : null,
-      "dob" : "1963-01-18",
+      "dob" : null,
       "country" : {
         "id" : 160,
         "name" : "Netherlands"
@@ -1818,7 +1735,7 @@
       "id" : 130,
       "name" : "Tom Sermanni",
       "nickname" : null,
-      "dob" : "1954-07-01",
+      "dob" : null,
       "country" : {
         "id" : 201,
         "name" : "Scotland"
@@ -1871,7 +1788,7 @@
       "id" : 130,
       "name" : "Tom Sermanni",
       "nickname" : null,
-      "dob" : "1954-07-01",
+      "dob" : null,
       "country" : {
         "id" : 201,
         "name" : "Scotland"
@@ -1964,7 +1881,7 @@
       "id" : 127,
       "name" : "Paul Riley",
       "nickname" : null,
-      "dob" : "1963-09-23",
+      "dob" : null,
       "country" : {
         "id" : 68,
         "name" : "England"
@@ -2017,7 +1934,7 @@
       "id" : 134,
       "name" : "Laura Harvey",
       "nickname" : null,
-      "dob" : "1980-05-15",
+      "dob" : null,
       "country" : {
         "id" : 68,
         "name" : "England"
@@ -2094,7 +2011,7 @@
       "id" : 130,
       "name" : "Tom Sermanni",
       "nickname" : null,
-      "dob" : "1954-07-01",
+      "dob" : null,
       "country" : {
         "id" : 201,
         "name" : "Scotland"
@@ -2114,7 +2031,7 @@
       "id" : 127,
       "name" : "Paul Riley",
       "nickname" : null,
-      "dob" : "1963-09-23",
+      "dob" : null,
       "country" : {
         "id" : 68,
         "name" : "England"
@@ -2167,7 +2084,7 @@
       "id" : 134,
       "name" : "Laura Harvey",
       "nickname" : null,
-      "dob" : "1980-05-15",
+      "dob" : null,
       "country" : {
         "id" : 68,
         "name" : "England"
@@ -2187,7 +2104,7 @@
       "id" : 130,
       "name" : "Tom Sermanni",
       "nickname" : null,
-      "dob" : "1954-07-01",
+      "dob" : null,
       "country" : {
         "id" : 201,
         "name" : "Scotland"
@@ -2313,7 +2230,7 @@
       "id" : 141,
       "name" : "Vlatko Andonovski",
       "nickname" : null,
-      "dob" : "1976-09-14",
+      "dob" : null,
       "country" : {
         "id" : 241,
         "name" : "United States of America"
@@ -2333,7 +2250,7 @@
       "id" : 132,
       "name" : "Vera Pauw",
       "nickname" : null,
-      "dob" : "1963-01-18",
+      "dob" : null,
       "country" : {
         "id" : 160,
         "name" : "Netherlands"
@@ -2386,7 +2303,7 @@
       "id" : 134,
       "name" : "Laura Harvey",
       "nickname" : null,
-      "dob" : "1980-05-15",
+      "dob" : null,
       "country" : {
         "id" : 68,
         "name" : "England"
@@ -2605,7 +2522,7 @@
       "id" : 132,
       "name" : "Vera Pauw",
       "nickname" : null,
-      "dob" : "1963-01-18",
+      "dob" : null,
       "country" : {
         "id" : 160,
         "name" : "Netherlands"
@@ -2625,7 +2542,7 @@
       "id" : 127,
       "name" : "Paul Riley",
       "nickname" : null,
-      "dob" : "1963-09-23",
+      "dob" : null,
       "country" : {
         "id" : 68,
         "name" : "England"
@@ -2706,7 +2623,7 @@
       "id" : 127,
       "name" : "Paul Riley",
       "nickname" : null,
-      "dob" : "1963-09-23",
+      "dob" : null,
       "country" : {
         "id" : 68,
         "name" : "England"
